@@ -28,9 +28,8 @@ This document provides comprehensive documentation for the Drosophila brain calc
    - [3.2 Pipeline 2: Quality Control Filtering](#32-pipeline-2-quality-control-filtering-voxel_filtering_processor_dev)
    - [3.3 Complete Workflow Example](#33-complete-workflow-example)
 4. [File Relationships](#4-file-relationships)
-5. [Troubleshooting](#5-troubleshooting)
-6. [External Resources](#6-external-resources)
-7. [Summary](#7-summary)
+5. [External Resources](#5-external-resources)
+6. [Summary](#6-summary)
 
 ---
 
